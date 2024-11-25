@@ -9,8 +9,7 @@ function App() {
         <nav>
           <ul>
             <li><a href="#about">Not About Me</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#projects">Project</a></li>
           </ul>
         </nav>
       </header>
@@ -21,10 +20,6 @@ function App() {
       <section id="projects">
         <h2>Projects</h2>
         <p>Showcase some of your projects here.</p>
-      </section>
-      <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Contact details or a form.</p>
       </section>
     </div>
   );
